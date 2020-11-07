@@ -35,6 +35,7 @@ PROCEDURE
 6.connect the two pumps on the carnullar line,push the oil
   from one end of the pump to move until it mixes with the one
   in the other pump
-  As you exert the pressure from the other end,the base of the oth
-  r pump moves towards the DvD, 
-Taking in account the principle of like poles
+  
+   As you exert the pressure from the other end,the base of the oth
+   other  pump moves towards the DvD, 
+   Taking in account the principle of like poles repelling each other,
