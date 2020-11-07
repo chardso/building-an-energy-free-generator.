@@ -38,4 +38,13 @@ PROCEDURE
   
    As you exert the pressure from the other end,the base of the oth
    other  pump moves towards the DvD, 
-   Taking in account the principle of like poles repelling each other,
+   Taking in account the principle of like poles repelling each other, 
+   and because of the magnetic field generated between the two,the DVd is forced
+   to rotate due to centripetal force,converting mechanical energy to electrical energy.
+   
+   The more you exert pressure on the pump,the more electrical energy is yield.
+   
+    When the speed increases ,power increases.
+    
+    TESTING:
+    By connecting aDC bulb on the wires of the motor.
